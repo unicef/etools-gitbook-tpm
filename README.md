@@ -8,7 +8,7 @@ This documentation has a navigation sidebar on the left of the screen, which can
 
 Also we used links that will provide moving you to the particular article associated with the specific topic.
 
-There are 3 main part in TPM documentation:
+There are 3 main parts in TPM documentation:
 
 * **Introduction** \(includes glossary, release article, contact information\);
 * **Product \(end-user documentation\)** Here you can find the description of:
