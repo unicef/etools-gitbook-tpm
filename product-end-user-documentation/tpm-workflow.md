@@ -2,7 +2,7 @@
 
 ## Visit workflow:
 
-![](../.gitbook/assets/visit-workflow-2.png)
+![](../.gitbook/assets/visit-workflow-3.png)
 
 ## General workflow:
 
