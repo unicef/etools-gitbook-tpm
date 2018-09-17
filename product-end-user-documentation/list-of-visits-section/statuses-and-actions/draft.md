@@ -48,7 +48,7 @@ See more details about email notification flow [here.](../emails-notifications-f
 
 Clicking "Cancel Visit" option takes user to the following modal window where the user has to enter cancellation reason:
 
-![Cancellation modal window](../../../.gitbook/assets/80.png)
+![Cancellation modal window](../../../.gitbook/assets/cancel%20%282%29.png)
 
 The screen for visit in ["Cancelled"](cancelled.md) status is opened after clicking "Continue" button in the modal window.
 {% endtab %}

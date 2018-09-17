@@ -20,7 +20,7 @@ There is "**Cancel Visit**" button placed at the bottom of the status panel:
 
 Clicking "Cancel Visit" button takes user to the following modal window where the user has to enter cancellation reason:
 
-![Cancellation modal window](../../../.gitbook/assets/80.png)
+![Cancellation modal window](../../../.gitbook/assets/cancel.png)
 
 The screen for visit in ["Cancelled"](cancelled.md) status is opened after clicking "Continue" button in the modal window.
 {% endtab %}
@@ -48,7 +48,7 @@ Clicking the "Accept" button moves user to the screen for visit in "[TPM Accepte
 
 Clicking the "Reject" button moves user to the following modal window where the user has to enter rejection comment: 
 
-![&quot;Reject Visit&quot; modal window](../../../.gitbook/assets/81.png)
+![&quot;Reject Visit&quot; modal window](../../../.gitbook/assets/reject.png)
 
 The screen for visit in "TPM Rejected" status is opened after clicking "Continue" button in the modal window.
 

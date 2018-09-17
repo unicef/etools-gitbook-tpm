@@ -20,7 +20,7 @@ There is **"Cancel Visit"** button at the bottom of the Status panel.
 
 Clicking "Cancel Visit" button takes user to the following modal window where the user has to enter Cancellation reason:
 
-![Cancellation modal window](../../../.gitbook/assets/80.png)
+![Cancellation modal window](../../../.gitbook/assets/cancel%20%283%29.png)
 
 The screen for visit in ["Cancelled" ](cancelled.md)status is opened after clicking "Continue" button in the modal window.
 
