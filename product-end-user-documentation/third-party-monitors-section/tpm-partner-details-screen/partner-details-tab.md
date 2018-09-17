@@ -16,7 +16,7 @@ Adding new TPM Contact is available in the following modal screen opened via "+"
 
 ![Add button](../../../.gitbook/assets/22.png)
 
-![Add new TPM Contact modal window](../../../.gitbook/assets/23.png)
+![Add new TPM Contact modal window](../../../.gitbook/assets/23%20%281%29.png)
 
 The data in this section can be editable via "Edit" icon, which is placed in the end of each row. 
 

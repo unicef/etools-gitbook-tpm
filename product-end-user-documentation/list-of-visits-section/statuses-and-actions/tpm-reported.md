@@ -34,7 +34,7 @@ The data can be saved by clicking the "Save" button.
 
 Clicking the "Approve" button opens the following modal window:
 
-![Approve Report modal window](../../../.gitbook/assets/96.png)
+![Approve Report modal window](../../../.gitbook/assets/23.png)
 
 The screen for vist in[ "UNICEF Approved"](unicef-approved.md) status is opened after clicking "Approve" button in the modal window.
 
