@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Third Party Monitoring Module Documentation](README.md)
 
 ## INTRODUCTION
 

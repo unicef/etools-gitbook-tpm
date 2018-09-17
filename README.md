@@ -1,4 +1,4 @@
-# Initial page
+# Third Party Monitoring Module Documentation
 
 ## Documentation Overview {#documentation-overview}
 
