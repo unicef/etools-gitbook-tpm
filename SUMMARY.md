@@ -51,4 +51,7 @@
 * [Data Model](technical-documentation/data-model.md)
 * [API Documentation](technical-documentation/api-documentation/README.md)
   * [Error Handling](technical-documentation/api-documentation/error-handling.md)
+* [Synchronization with VISION](technical-documentation/synchronization-with-vision.md)
+* [Permissions framework](technical-documentation/permissions-framework.md)
+* [API Metadata](technical-documentation/api-metadata.md)
 
