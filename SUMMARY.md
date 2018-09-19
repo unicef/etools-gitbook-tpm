@@ -48,7 +48,7 @@
 * [Architecture](technical-documentation/architecture.md)
 * [Development Setup](technical-documentation/untitled.md)
 * [Deployment / DevOps](technical-documentation/untitled-1.md)
-* [Module structure](technical-documentation/module-structure.md)
+* [Backend Module structure](technical-documentation/module-structure.md)
 * [Data Model](technical-documentation/data-model.md)
 * [API Documentation](technical-documentation/api-documentation/README.md)
   * [Error Handling](technical-documentation/api-documentation/error-handling.md)

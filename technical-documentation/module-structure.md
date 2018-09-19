@@ -1,11 +1,11 @@
-# Module structure
+# Backend Module structure
 
 ### TPM module files structure
 
 ![](../.gitbook/assets/image.png)
 
 `export` - everything that is related to csv & pdf exports  
-`management` - specific management commands. in our case there is only command for updating permissions.  
+`management` - specific management commands. in our case there is only one command for updating permissions.  
 `migrations` - database migrations  
 `serializers`- rest framework serializers  
     - `attachments.py` - visit attachments serializers  
