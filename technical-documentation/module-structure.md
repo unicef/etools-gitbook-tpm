@@ -30,13 +30,13 @@
 
 ### tpm.tpmpartners app
 
-To store global data that is related to TPM, was implemented nested application named `tpmpartners`.   
-Views and serializers are still placed in parent application to keep consistant place for all module logic.
+To store the global data that is related to TPM,  nested application named `tpmpartners` was implemented.  
+Views and serializers are still located in the parent application to keep the consistant place for all module logic.
 
-App consists of:  
+The App consists of the following parts:  
 - `migrations` - database migrations  
 - `models.py` - partner with their staff members  
 - `synchronizer.py` - VISION partner synchronizer  
-- `tasks.py` - periodic tasks, which are responsible to keep partners synced with VISION  
+- `tasks.py` - periodic tasks, which are responsible for keeping the partners synced with the VISION  
 
 

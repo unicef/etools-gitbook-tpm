@@ -11,7 +11,7 @@
 
 5. Login to backend using `fab ssh:backed`and create admin with `python manage.py createsuperuser`
 6. Go to [http://127.0.0.1:8082/api/admin/](http://127.0.0.1:8082/api/admin/) login with your credentials.
-7. Important! User created with superuser command will not be connected to any country, so frontend will fail. You need to assign country manually in admin panel from user edit page.
+7. **Important!** User created with superuser command will not be assosiated with any country, so frontend will fail. You need to assign the country manually in the admin panel from user edit page.
 8.  And can now go to ​http://127.0.0.1:8082/tpm/ to see the frontend interface.
 
 ## Helpful Commands {#helpful-commands}
