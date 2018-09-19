@@ -4,11 +4,11 @@ description: Here you can find the overview of the Status panel.
 
 # Statuses and corresponding actions
 
-The overall user interface for status panel is: 
+The Status panel in the TPM looks like following:
 
-![Status panel: overall UI](../../../.gitbook/assets/66.png)
+![Status panel](../../../.gitbook/assets/66.png)
 
-There are 5 statuses displayed by default and represented for the compulsory flow of Visit: 
+There are 5 Visit statuses displayed by default in the Status panel : 
 
 * [Draft](draft.md)
 * [Assigned](assigned.md)
@@ -16,13 +16,13 @@ There are 5 statuses displayed by default and represented for the compulsory flo
 * [TPM Reported](tpm-reported.md)
 * [UNICEFF Approved](unicef-approved.md)
 
-The 3 additional statuses are displayed if the corresponding action was performed:
+There are also 3 additional statuses that displayed if the corresponding action was performed:
 
 * [Cancelled](cancelled.md)
 * [TPM rejected](tpm-rejected.md)
 * [Sent Back to TPM](sent-back-to-tpm.md)
 
-Click on the each status provided above to open the more information of the possible actions depending on the **user role** \(PME/TPM Focal Point\). 
+In the next articles these statuses will be discussed in details or you can click on any of the statuses  to get straight to the description of the this particular one. 
 
 
 

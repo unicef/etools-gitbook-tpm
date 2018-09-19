@@ -2,23 +2,23 @@
 
 Here is the overall UI for this tab:
 
-![Related Documents tab: overall UI](../../../.gitbook/assets/53%20%281%29.png)
+![Related Documents tab](../../../.gitbook/assets/53%20%281%29.png)
 
 {% hint style="info" %}
-This tab can be edited by PME **only** while the status of visit is **"Draft".**
+This tab can be edited by **PME only** while the status of visit is **"Draft".**
 {% endhint %}
 
-Attaching New Document is accessible in the following modal window which is opened via "+" button:
+User can attach New Document using the "+" button that opens the following modal window:
 
 ![Add button](../../../.gitbook/assets/54.png)
 
 ![Attach file modal window](../../../.gitbook/assets/55%20%281%29.png)
 
-Each row can be expanded via the arrow. The additional details will be opened after clicking the arrow:
+Each row can be expanded using the arrow in order to quickly see the Attachment details:
 
 ![Additional details after expanding the row](../../../.gitbook/assets/56%20%281%29.png)
 
-The data in this section can be deleted via the "Delete" option which is accessible after expanding the row:
+User can delete the Attachment in this section using the "Delete" option in the Attachment details:
 
 ![Delete option](../../../.gitbook/assets/57.png)
 

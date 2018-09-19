@@ -7,24 +7,24 @@ Here is the overall UI for the Report tab:
 {% hint style="info" %}
 This tab is accessible to **TPM Focal Point** after the visit was accepted.
 
-The **PME** has the access to this tab after the TPM Focal Point submitted the report for the visit.
+The **PME** has the access to this tab after the TPM Focal Point has submitted the Report for the Visit.
 
-The more details of user rights can be found in the ["User rights and permissions"](../../overview/user-rights-and-permissions.md) article.
+More details of user rights can be found in the [User rights and permissions](../../overview/user-rights-and-permissions.md) article.
 {% endhint %}
 
 This section consists of **Related Documents** section and **Reports by Task** section.
 
 ## Related Documents section
 
-Attaching new document is available via "+" button in the upper, right-hand corner:
+User can attach new document via "+" button in the upper right-hand corner:
 
 ![Add button](../../../.gitbook/assets/44.png)
 
-The following modal window is opened after the user clicks "+' button:
+The following modal window is opened after the user clicks "+" button:
 
 ![Attach File modal window](../../../.gitbook/assets/45%20%281%29.png)
 
-Attached files can be edited or deleted via "Edit"  or "Delete" button accordingly:
+Attached files can be edited or deleted via "Edit"  or "Delete" button correspondingly:
 
 ![Edit button](../../../.gitbook/assets/47%20%281%29.png)
 
@@ -36,13 +36,13 @@ Adding reports is available in the following modal window opened via "+" button:
 
 ![Add button](../../../.gitbook/assets/50.png)
 
-![Attach file modal window](../../../.gitbook/assets/49.png)
+![Attach File modal window](../../../.gitbook/assets/49.png)
 
-Each row in this section is expandable via the arrow. The additional details will be opened after clicking the arrow. 
+Each row can be expanded using the arrow in order to quickly see the Report details:
 
 ![Additional details after expanding the row ](../../../.gitbook/assets/51.png)
 
-The task can be deleted via "Delete" option which is available after expanding the row:
+Report can be deleted via "Delete" option which is available when user opens the Report details:
 
 ![Delete option](../../../.gitbook/assets/52.png)
 

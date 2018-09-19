@@ -1,22 +1,22 @@
 # Sent Back to TPM
 
-The "Sent Back to TPM" status appears after the PME rejects the visit in "[TPM Reported](tpm-reported.md)" status.
+The "Sent Back to TPM" status is displayed after the PME rejects the Visit in "[TPM Reported](tpm-reported.md)" status.
 
 The other name for this status is **"TPM Report Rejected"**, which is used in the List of Visits section after filtering by "Sent Back to TPM" status. 
 
 ![ Status &quot;TPM Report Rejected&quot; in the List of Visits ](../../../.gitbook/assets/2%20%281%29.png)
 
-Click on each tab below to open the detailed information about available options for visit in "Sent Back to TPM" status in according to the user role: 
+Click on each tab below to open the detailed information about available options for the Visit in "Sent Back to TPM" status in accordance with the user role: 
 
 {% tabs %}
 {% tab title="PME" %}
-Here is the overall UI for visit in "Sent Back to TPM" status for PME:
+Here is the overall UI for the Visit in "Sent Back to TPM" status for PME:
 
-![Visit in &quot;Sent Back to TPM&quot; status: overall UI for PME](../../../.gitbook/assets/3%20%281%29.png)
+![Visit in &quot;Sent Back to TPM&quot; status](../../../.gitbook/assets/3%20%281%29.png)
 
 The ****additional **"Reason For Rejection"** panel appears above the "Visit Information" section. There is a PME comment displayed in this panel. 
 
-In case of repeated rejections the user is able to see the previous comments by clicking the "View More Comments" option. This option is represented in the lower, right-hand corner of the new panel.  
+In case of repeated rejections the user is able to see the previous comments by clicking the "View More Comments" option. This option is represented in the lower right-hand corner of the new panel.  
 
 ![&quot;View More Comments&quot; option](../../../.gitbook/assets/view-comments.png)
 
@@ -32,11 +32,11 @@ There are no available options for PME.
 {% tab title="TPM Focal Point" %}
 Here is the overall UI for visit in "Sent Back to TPM" status for TPM Focal Point:
 
-![Visit in &quot;Sent Back to TPM&quot; status: overall UI for TPM Focal Point](../../../.gitbook/assets/5%20%282%29.png)
+![Visit in &quot;Sent Back to TPM&quot; status](../../../.gitbook/assets/5%20%282%29.png)
 
 The ****additional **"Reason For Rejection"** panel appears above the Visit Information section. There is a PME comment displayed in this panel. 
 
-In case of repeated rejections the user is able to view previous comments by clicking the "View More Comments" option. This option is represented in the lower, right-hand corner of the new panel.  
+In case of repeated rejections the user is able to view previous comments by clicking the "View More Comments" option. This option is presented in the lower right-hand corner of the new panel.  
 
 ![&quot;View More Comments&quot; option](../../../.gitbook/assets/view-comments.png)
 
@@ -46,11 +46,11 @@ The user can view previous comments in the following modal window:
 
 ### Available options
 
-There is split button "Save" at the bottom of the Status section.
+There is split "Save" button at the bottom of the Status section.
 
 ![Save button](../../../.gitbook/assets/7.png)
 
-Clicking the arrow behind the button opens the additional option "Submit Report":
+Clicking the arrow on the button opens the additional option "Submit Report":
 
 ![Submit Report](../../../.gitbook/assets/8%20%281%29.png)
 
@@ -58,7 +58,7 @@ Clicking the arrow behind the button opens the additional option "Submit Report"
 
 ### Editing 
 
-TPM Focal Point can edit the "**Report"** tab for visit in "Sent Back to TPM" status. 
+TPM Focal Point can edit the **Report** tab for the Visit in "Sent Back to TPM" status. 
 
 The data can be saved by clicking "Save" button. 
 

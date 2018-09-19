@@ -103,8 +103,8 @@ The table below describes the cases when the email notification is sent dependin
     </tr>
   </tbody>
 </table>{% hint style="info" %}
-The email notifications for action points aren't represented. See more information in the [Action Point Dashboard Documentation](https://razortheory.gitbook.io/action-points-dashboard/)
+The email notifications for action points aren't presented here. See more information in the [Action Point Dashboard Documentation](https://razortheory.gitbook.io/action-points-dashboard/)
 {% endhint %}
 
-The detailed information of the visit workflow see[ here](../tpm-workflow.md).
+The detailed information of the Visit workflow see[ here](../tpm-workflow.md).
 

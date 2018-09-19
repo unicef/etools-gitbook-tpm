@@ -1,14 +1,14 @@
 # TPM Rejected
 
-The "TPM Rejected" Status appears after the TPM Focal Point rejects the visit, which is [assigned ](assigned.md)to him.
+The "TPM Rejected" Status appears after the TPM Focal Point rejects the visit that is [assigned ](assigned.md)to him.
 
-Click on each tab below to open the detailed information about available options for visit in "TPM Rejected" status in according to the user role: 
+Click on each tab below to open the detailed information about available options for visit in "TPM Rejected" status in accordance with the user role: 
 
 {% tabs %}
 {% tab title="PME " %}
 Here is the overall UI for visit in "TPM Rejected" status for PME:
 
-![Visit in &quot;TPM Rejected&quot; status : overall UI for PME](../../../.gitbook/assets/87.png)
+![Visit in &quot;TPM Rejected&quot; status](../../../.gitbook/assets/87.png)
 
 The ****additional **"Reason For Rejection"** panel appears above the "Visit Information" section. There is a TPM Focal Point's  comment displayed in this panel.
 
@@ -18,7 +18,7 @@ There is split button "Save" at the bottom of the Status panel.
 
 ![Save button](../../../.gitbook/assets/89.png)
 
-Clicking the arrow behind the button opens the additional options **"Re-Assign"** and **"Cancel Visit":**
+Clicking the arrow on the button opens the additional options **"Re-Assign"** and **"Cancel Visit":**
 
 ![Additional options for split button &quot;Save&quot;](../../../.gitbook/assets/90.png)
 
@@ -30,7 +30,7 @@ The user can save changes by clicking "Save" button.
 
 ### Re-Assigning
 
-Clicking "Re-Assign" takes user to the the screen for visit in ["Assigned"](assigned.md) status.
+Clicking "Re-Assign" takes user to the the screen for the Visit in ["Assigned"](assigned.md) status.
 
 ### Email notifications
 
@@ -60,7 +60,7 @@ The screen for visit in ["Cancelled"](cancelled.md) status is opened after click
 {% tab title="TPM Focal Point" %}
 Here is the overall UI for visit in "TPM Rejected" status for TPM Focal Point:
 
-![Visit in &quot;TPM Rejected&quot; status: overall UI for TPM Focal Point ](../../../.gitbook/assets/88.png)
+![Visit in &quot;TPM Rejected&quot; status](../../../.gitbook/assets/88.png)
 
 The ****additional **"Reason For Rejection"** panel appears above the "Visit Information" section. There is a TPM Focal Point's  comment displayed in this panel.
 
