@@ -16,12 +16,12 @@
 -  `tpmpartners` - nested global application to keep shared across the countries information about tpm firm  
 - `transitions` - everything that is related to fsm transitions  
     - `conditions.py` - custom checks for transitions. for example in case of submitting report we need to be assured that report attachments are exists.  
-    - `serializers.py` - transitions serializers to validate their input arguments \(see more in permissions framework section inside views paragraph\)  
+    - `serializers.py` - transitions serializers to validate their input arguments \(see more in [permissions framework section](permissions-framework.md#views)\)  
 - `admin.py` - admin site definitions for models  
 - `apps.py` - python app configuration  
-- `conditions.py` - conditions to perform FSM transitions. More in Permissions framework  
+- `conditions.py` - conditions to perform FSM transitions. [see more details here](fsm-transitions-conditions.md)  
 - `filters.py` - rest framework views filters  
-- `metadata.py` - base metadata class to be used in viewsets. more in API Metadata section  
+- `metadata.py` - base metadata class to be used in viewsets. more in [API Metadata section](api-metadata.md)  
 - `models.py` -  country-related tpm models  
 - `signals.py` - app signals. custom logic for user deletion; sending notifications in case of assigning action points  
 - `urls.py` - app urls  
@@ -35,6 +35,6 @@ Views and serializers are still placed in tpm application to keep consistant pla
 App consists of:  
 - `models.py` - partner with their staff members  
 - `synchronizer.py` - VISION partner synchronizer  
-- `tasks.py` - periodic, which are responsible to keep partners synced with VISION  
+- `tasks.py` - periodic tasks, which are responsible to keep partners synced with VISION  
 
 
