@@ -15,7 +15,7 @@
 - `tests` - tests for models, views, serializers, transitions flow  
 -  `tpmpartners` - nested global application to keep shared across the countries information about tpm firm  
 - `transitions` - everything that is related to fsm transitions  
-    - `conditions.py` - custom checks for fsm transitions. for example in case of submitting report we need to be assured that report attachments are exists.  
+    - `conditions.py` - custom checks for transitions. for example in case of submitting report we need to be assured that report attachments are exists.  
     - `serializers.py` - transitions serializers to validate their input arguments \(see more in permissions framework section inside views paragraph\)  
 - `admin.py` - admin site definitions for models  
 - `apps.py` - python app configuration  

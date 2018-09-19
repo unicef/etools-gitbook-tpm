@@ -54,5 +54,6 @@
   * [Error Handling](technical-documentation/api-documentation/error-handling.md)
 * [Synchronization with VISION](technical-documentation/synchronization-with-vision.md)
 * [Permissions framework](technical-documentation/permissions-framework.md)
+* [FSM Transitions conditions](technical-documentation/fsm-transitions-conditions.md)
 * [API Metadata](technical-documentation/api-metadata.md)
 
