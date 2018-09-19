@@ -54,5 +54,20 @@ response example:
 }
 ```
 
+This response is mapped to partner objects. `TPMPartnerSynchronizer` do this. Fields mapping is below:
 
+```text
+"vendor_number": "VENDOR_CODE",
+"name": "VENDOR_NAME",
+"street_address": "STREET",
+"city": "CITY",
+"postal_code": "POSTAL_CODE",
+"country": "COUNTRY",
+"email": "EMAIL",
+"phone_number": "PHONE_NUMBER",
+"blocked": "POSTING_BLOCK",
+"deleted_flag": "MARKED_FOR_DELETION",
+```
+
+If we synchronizing partner manually, we also set `hidden` flag to hide partner from base set, but save him into the database. In case of confirmation of partner adding, this flag will be changed to false and he will appear in list.
 

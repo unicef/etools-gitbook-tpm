@@ -38,7 +38,7 @@ There is split button "Accept" at the bottom of the status panel:
 
 Clicking the arrow behind the button will open the additional **"Reject"** option**:** 
 
-![Reject option ](../../../.gitbook/assets/image%20%281%29.png)
+![Reject option ](../../../.gitbook/assets/image%20%282%29.png)
 
 ### **Acceptation**
 
