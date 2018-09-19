@@ -7,6 +7,7 @@
 `export` - everything that is related to csv & pdf exports  
 `management` - specific management commands. in our case there is only one command for updating permissions.  
 `migrations` - database migrations  
+`notifications` - templates for email notifications  
 `serializers`- rest framework serializers  
     - `attachments.py` - visit attachments serializers  
     - `partner.py` - tpm partner serializers  
@@ -30,9 +31,10 @@
 ### tpm.tpmpartners app
 
 To store global data that is related to TPM, was implemented nested application named `tpmpartners`.   
-Views and serializers are still placed in tpm application to keep consistant place for all module logic.
+Views and serializers are still placed in parent application to keep consistant place for all module logic.
 
 App consists of:  
+- `migrations` - database migrations  
 - `models.py` - partner with their staff members  
 - `synchronizer.py` - VISION partner synchronizer  
 - `tasks.py` - periodic tasks, which are responsible to keep partners synced with VISION  
