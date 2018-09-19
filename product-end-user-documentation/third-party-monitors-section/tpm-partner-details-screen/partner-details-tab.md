@@ -6,23 +6,23 @@ There are 3 sections in the Partner Details tab: TPM Partner Details section, TP
 
 ![TPM Partner Details section: overall UI ](../../../.gitbook/assets/19.png)
 
-This section is editable in according with the [user rights](../../overview/user-rights-and-permissions.md).
+This section is editable in accordance with the [user rights](../../overview/user-rights-and-permissions.md).
 
 ## TPM Contacts section
 
 ![ TPM Contacts section: overall user interface](../../../.gitbook/assets/21.png)
 
-Adding new TPM Contact is available in the following modal screen opened via "+" button: 
+User can add new TPM Contact in the following modal screen opened via "+" button: 
 
 ![Add button](../../../.gitbook/assets/22.png)
 
 ![Add new TPM Contact modal window](../../../.gitbook/assets/23%20%281%29.png)
 
-The data in this section can be editable via "Edit" icon, which is placed in the end of each row. 
+The data in this section can be edited via the "Edit" icon, which is placed in the end of each row. 
 
 ![Edit button in the end of row](../../../.gitbook/assets/24.png)
 
-The user is able to use "Search" icon in order to perform data search. The "Search" icon is placed behind the "Edit" button: 
+The user can  search in this list using the "Search" icon in order to perform data search. The "Search" icon is placed behind the "Edit" button: 
 
 ![Search icon](../../../.gitbook/assets/25.png)
 
@@ -41,4 +41,6 @@ The button "Save" is displayed at the bottom of the panel and provides saving ch
 {% hint style="info" %}
 The "Actions" section is available only for **PME**.
 {% endhint %}
+
+
 

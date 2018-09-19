@@ -4,8 +4,8 @@
 * CP output - Country Programme Output
 * CSO - Civil Society Organization
 * IP \(Implementing Partner\) - a CSO that receives resources from UNICEF for the implementation of a programme document or small-scale funding agreement.
-* **PME** -  s a staff member of UNICEF or individual consultant who has an edit capabilities to the Third Party Monitoring Portal and can create a TPM visit.
-* PD-SSFA -  Programme Division/Small-Scale Funding Agreement
+* **PME** - is a staff member of UNICEF or individual consultant who has an edit capabilities to the Third Party Monitoring Portal and can create a TPM visit.
+* PD-SSFA - Programme Division/Small-Scale Funding Agreement
 * **TPM** - Third Party Monitoring
 * **TPM Focal point** - Non UNICEF user who conducts TPM visits on behalf of UNICEF.
 * UI - user interface

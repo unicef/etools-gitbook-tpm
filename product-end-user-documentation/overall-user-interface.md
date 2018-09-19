@@ -2,7 +2,7 @@
 
 The overall user interface for Third Party Monitoring Module is presented in the following screenshot:
 
-![Overall user interface for Third Party Monitoring Module](../.gitbook/assets/13%20%282%29.png)
+![Overall user interface](../.gitbook/assets/13%20%282%29.png)
 
 The following sections are represented for overall UI:
 
@@ -19,22 +19,22 @@ The following sections are represented for overall UI:
 
 **Сollapsible left navigation panel** with:
 
-In the top:
+At the top:
 
-* label,
+* label with the module name,
 * Third Party Monitors section,
 * List of visits section.
 
 ![Top of the left navigation panel for UNICEF Staff Members](../.gitbook/assets/7%20%281%29.png)
 
 {% hint style="info" %}
-There is TPM Partner section instead of Third Party Monitors for **TPM users**
+**TPM User** sees slightly different left navigation panel: there are TPM Partner and List of Visits sections. 
 {% endhint %}
 
 ![Top of the left navigation panel for TPM users ](../.gitbook/assets/8.png)
 
   
- In the bottom:
+ At the bottom:
 
 * eTools Community Channels \("Knowledge Base", "Discussion", "Information"\)
 

@@ -1,18 +1,18 @@
-# How to get to the TPM?
+# Third Party Monitoring Module Navigation
 
-There are 3 ways to access the TPM:
+### There are 3 ways to access the TPM.
 
-## **1\)** via app icon ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJT531BxmrgZ_gS1UJP%2F-LJYBYkRsoCsOjAkX1Zh%2F-LJYDRFEPbZSWKnklnjK%2F4.png?alt=media&token=d947bbe3-6eb2-42c1-9d4f-23da783e477b)
+## **1\)** via the app icon ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJT531BxmrgZ_gS1UJP%2F-LJYBYkRsoCsOjAkX1Zh%2F-LJYDRFEPbZSWKnklnjK%2F4.png?alt=media&token=d947bbe3-6eb2-42c1-9d4f-23da783e477b)
 
- Switching to TPM by selecting “Third Party Monitoring”:
+ User can switch to the TPM by selecting “Third Party Monitoring” module icon:
 
 ![Switch to TPM](../.gitbook/assets/1%20%282%29.png)
 
-## 2\) via a link 
+## 2\) via the direct link link 
 
 The user can access the TPM via the link in the email to a **particular visit** which is accessed to him or via a link for **signing in** TPM.
 
-##  3\) **via Action Point Dashboard** \(through the link for AP created in TPM\)
+## 3\) **via the Action Point Dashboard** \(through the link to AP created in TPM\)
 
 1\) The user should switch to Action Point Dashboard via icon ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJT531BxmrgZ_gS1UJP%2F-LLdSZCmP9Xt61EOGZKG%2F-LLdSHF8vcYThhIVz5AI%2F4.png?alt=media&token=a67ecd4e-9ae4-4914-9795-2a0c01ab5438) by selecting “Action Points”:
 
