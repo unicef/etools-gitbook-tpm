@@ -26,5 +26,5 @@ or
 gulp prodBuild
 ```
 
-In this case will be used Polymer  gukp tasks to combine all components into single file. Also all code will be minifyed. At first it will clean destenation directory, than temporary copy bower components  to `src` directory to allow polymer to resolve necessary dependencies, build elements and use Polymer `project.merge(source, dependencies)` task function to combine code.
+In this case will be used Polymer gulp tasks to combine all components into single file. Also all code will be minifyed. At first it will clean destenation directory, than temporary copy bower components  to `src` directory to allow polymer to resolve necessary dependencies, build elements and use Polymer `project.merge(source, dependencies)` task function to combine code.
 
