@@ -56,4 +56,8 @@
 * [Permissions framework](technical-documentation/permissions-framework.md)
 * [FSM Transitions conditions](technical-documentation/fsm-transitions-conditions.md)
 * [API Metadata](technical-documentation/api-metadata.md)
+* [Frontend](technical-documentation/frontend/README.md)
+  * [Module structure](technical-documentation/frontend/module-structure.md)
+  * [Build process](technical-documentation/frontend/build-process.md)
+  * [Tests](technical-documentation/frontend/tests.md)
 
