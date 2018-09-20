@@ -1,12 +1,12 @@
 # Error Handling
 
-Original Django Rest Framework has been modified a bit for consistency and extended to include error codes.
+Original Django Rest Framework has been modified a bit for consistency and extended in order to include error codes.
 
 Expected http status codes are **404** and **400**. **400** response details have been detailed below.
 
 #### General / Non Field Errors
 
-A response for a single error would look like this:
+A response for a single error looks like the following:
 
 ```javascript
 {
@@ -36,7 +36,7 @@ Multiple errors can be provided under `non_field_errors` key, eg.:
 
 #### Field Errors
 
-Errors related to fields will be returned as a mapping
+Errors, associated with the fields, will be returned as a mapping:
 
 ```javascript
 {
@@ -51,7 +51,7 @@ Errors related to fields will be returned as a mapping
 }
 ```
 
-And of course can contain multiple messages per single field
+And of course can contain multiple messages for a single field:
 
 ```javascript
 {

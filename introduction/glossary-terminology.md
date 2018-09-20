@@ -11,6 +11,6 @@
 * UI - user interface
 * UNICEF Focal Point - UNICEF Staff member or individual consultant that is Focal Point for the Partnership such as the Chief of Section/Programme Officer/National Officer.
 * UNICEF User -  is a staff member or individual consultant who has a view-only capability to the Third Party Monitoring Portal but cannot create a TPM visit.
-* VISION - external data storage, managed by UNICEF.
+* VISION - external database, managed by UNICEF.
 * Vendor number - is a number related to the particular TPM Organization and which is used to export vendor information from VISION.
 

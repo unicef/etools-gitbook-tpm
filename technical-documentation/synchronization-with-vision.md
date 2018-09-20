@@ -1,6 +1,6 @@
 # Synchronization with VISION
 
-VISION is an external database managed by UNICEF. We use it for fetching base partner information by vendor number.
+VISION is an external database managed by UNICEF. We use it for fetching basic partner information using the vendor number.
 
 ![](../.gitbook/assets/1q2ndt.jpg)
 
