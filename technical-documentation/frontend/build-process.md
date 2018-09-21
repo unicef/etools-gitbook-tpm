@@ -1,10 +1,10 @@
 # Build process
 
-You can use Gulp comands to build TPM application. There is difference beetwen building module for development or production. Details of realisation specific gulp tasks you can find in `gulp-tasks/` directory.
+You can use Gulp comands to build the TPM application. There is difference beetwen building module for development or production.  You can find details on the realisation specific gulp tasks in `gulp-tasks/` directory.
 
 ### Development
 
-Use this command to build application for development:
+Use the following command to build an application for development:
 
 ```text
 gulp devup
@@ -14,7 +14,7 @@ This comand will run several gulp tasks. It will clean destenation directory,  b
 
 ### Production
 
-You can call default gulp task or use `prodBuild` task to build application in production environment. 
+You can call default gulp task or use `prodBuild` task to build an application in the production environment. 
 
 ```text
 gulp 
@@ -26,5 +26,5 @@ or
 gulp prodBuild
 ```
 
-In this case will be used Polymer gulp tasks to combine all components into single file. Also all code will be minifyed. At first it will clean destenation directory, than temporary copy bower components  to `src` directory to allow polymer to resolve necessary dependencies, build elements and use Polymer `project.merge(source, dependencies)` task function to combine code.
+In this case  Polymer gulp tasks will be used to combine all components into a single file. Also all code will be minifyed. At first it will clean destenation directory, than temporary copy bower components  to `src` directory to allow the Polymer to resolve necessary dependencies, build elements and use the Polymer `project.merge(source, dependencies)` task function to combine code.
 

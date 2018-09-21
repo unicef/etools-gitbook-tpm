@@ -1,10 +1,10 @@
 ---
-description: Etools Third Party Monitoring Front-End module
+description: Etools Third Party Monitoring Front-End module description
 ---
 
 # Frontend
 
-This module was developed using the [Polymer](https://www.polymer-project.org/) library \(version 1.x\) and [Material Design](https://material.io/) concept. [Polytempl](https://www.npmjs.com/package/polytempl) plugin was used as helper in development process and [Gulp](https://gulpjs.com/) was used to [build](build-process.md) application.
+This module was developed using the [Polymer](https://www.polymer-project.org/) library \(version 1.x\) and [Material Design](https://material.io/) concept. [Polytempl](https://www.npmjs.com/package/polytempl) plugin was used as helper in the development process and [Gulp](https://gulpjs.com/) was used to [build](build-process.md) the application.
 
 ## Installation
 
@@ -14,7 +14,7 @@ Using git, clone to a local directory:
 $ git clone https://github.com/unicef/etools-tpm.git
 ```
 
-Assuming node and npm are already installed, make sure bower is also installed, if not run:
+Assuming that node and npm are already installed, make sure the bower is also installed, if not run:
 
 ```bash
 $ npm install -g bower
@@ -27,7 +27,7 @@ $ npm install
 $ bower install
 ```
 
-This application is part of [etools-infra](https://github.com/unicef/etools-infra) and runs under a customized setup of etools apps. After `etools-infra` is installed the TPM application can be accessed for devs at `http://localhost:8082/tpm/`
+This application is a part of [etools-infra](https://github.com/unicef/etools-infra) and runs under a customized setup of the etools apps. After `etools-infra` is installed, the TPM application can be accessed for devs at `http://localhost:8082/tpm/`
 
 ## How to run tests
 

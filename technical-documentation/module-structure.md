@@ -5,7 +5,7 @@
 ![](../.gitbook/assets/image.png)
 
 `export` - everything that is related to csv & pdf exports  
-`management` - specific management commands. in our case there is only one command for updating permissions.  
+`management` - specific management commands \(in our case there is only one command for updating permissions\)  
 `migrations` - database migrations  
 `notifications` - templates for email notifications  
 `serializers`- rest framework serializers  

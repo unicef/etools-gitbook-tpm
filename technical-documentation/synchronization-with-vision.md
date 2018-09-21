@@ -1,16 +1,16 @@
 # Synchronization with VISION
 
-VISION is an external database managed by UNICEF. We use it for fetching basic partner information using the vendor number.
+VISION is an external database managed by UNICEF. We use it for fetching basic Partner information using the Vendor Number.
 
 ![](../.gitbook/assets/1q2ndt.jpg)
 
 ![](../.gitbook/assets/sieu8f.jpg)
 
-By clicking on `add new vendor` and entering partner vendor number, call through the api will be performed. If the record not exists in database, it will be searched in VISION by the next url:   
+By clicking on `add new vendor` and entering Partner Vendor Number, call through the api will be performed. If the record doesn't exist in the database, it will be searched in VISION using the following url:   
 [https://devapis.unicef.org/BIService/BIWebService.svc/GetPartnerDetailsInfo\_JSON/&lt;vendor\_number&gt;](https://devapis.unicef.org/BIService/BIWebService.svc/GetPartnerDetailsInfo_JSON/<vendor_number>)  
-in case of success, partner information will be synced to the server database and then periodically refresh actual data. 
+In case of success, Partner information will be synced with the server database and then periodically refresh the actual data. 
 
-response example:
+Here is the response example:
 
 ```javascript
 {
@@ -54,7 +54,7 @@ response example:
 }
 ```
 
-This response is mapped to partner objects. `TPMPartnerSynchronizer` do this. Fields mapping is below:
+This response is mapped to Partner objects using the `TPMPartnerSynchronizer`. Fields mapping is presented below:
 
 ```text
 "vendor_number": "VENDOR_CODE",
@@ -69,5 +69,5 @@ This response is mapped to partner objects. `TPMPartnerSynchronizer` do this. Fi
 "deleted_flag": "MARKED_FOR_DELETION",
 ```
 
-If we synchronizing partner manually, we also set `hidden` flag to hide partner from base set, but save him into the database. In case of confirmation of partner adding, this flag will be changed to false and he will appear in list.
+If we synchronize the Partner manually, we also set `hidden` flag to hide the Partner from the base set, but save it into the database. In case of the confirmation of Partner addition, this flag will be changed to false and Partner will appear in the list.
 

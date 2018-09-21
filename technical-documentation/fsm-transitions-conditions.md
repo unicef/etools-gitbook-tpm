@@ -1,15 +1,15 @@
 # FSM Transitions conditions
 
-In some cases there are additional requirements to allow process to the next step. For this was built custom conditions which integrates with transitions out of the box.
+In some cases there are additional requirements in order to allow the process to go to the next step. For this, custom conditions that integrates with transitions out of the box, were built. 
 
 Base classes for them:
 
-* `BaseTransitionCheck` - base check which collects validation errors inside `get_errors` function and raise them if conditions are not met
-* BaseRequiredFieldsCheck - has `fields` attribute which contain list of required fields to allow performing of transition
+* `BaseTransitionCheck` - base check which collects validation errors inside `get_errors` function and raise them if conditions are not met.
+* BaseRequiredFieldsCheck - has `fields` attribute which contain list of required fields to allow performing of transition.
 
-examples:
+Examples:
 
-check that attachments of specific type are provided:
+Check that attachments of specific type are provided:
 
 ```python
 class ReportAttachmentsCheck(BaseTransitionCheck):
@@ -21,7 +21,7 @@ class ReportAttachmentsCheck(BaseTransitionCheck):
         return errors
 ```
 
-check partner and all required focal points are provided before visit assignment
+Check that partner and all required focal points are provided before visit assignment:
 
 ```python
 class TPMVisitAssignRequiredFieldsCheck(BaseRequiredFieldsCheck):
@@ -30,9 +30,7 @@ class TPMVisitAssignRequiredFieldsCheck(BaseRequiredFieldsCheck):
     ]
 ```
 
-
-
-example of error response in case of unmet conditions:
+Example of the error response in case of unmet conditions:
 
 ![](../.gitbook/assets/8iewjg.jpg)
 
