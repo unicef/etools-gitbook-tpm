@@ -20,7 +20,7 @@
     - `serializers.py` - transitions serializers to validate their input arguments \(see more in [permissions framework section](permissions-framework.md#views)\)  
 - `admin.py` - admin site definitions for models  
 - `apps.py` - python app configuration  
-- `conditions.py` - conditions to perform FSM transitions. [see more details here](fsm-transitions-conditions.md)  
+- `conditions.py` - conditions for permissions framework. [see more details here](permissions-framework.md)  
 - `filters.py` - rest framework views filters  
 - `metadata.py` - base metadata class to be used in viewsets. more in [API Metadata section](api-metadata.md)  
 - `models.py` -  country-related tpm models  
