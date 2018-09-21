@@ -10,7 +10,7 @@ Use the following command to build an application for development:
 gulp devup
 ```
 
-This comand will run several gulp tasks. It will clean destenation directory,  build source files using polytempl, babel and other plugins, copy necessary assets and bower components. Than it will run node server by executing `express.js` file and start watching changes in application source files.
+This comand will run several gulp tasks. It will clean destenation directory,  build source files using polytempl, babel and other plugins, copy necessary assets and bower components. Then it will run node server by executing `express.js` file and start watching changes in application source files.
 
 ### Production
 
@@ -26,5 +26,5 @@ or
 gulp prodBuild
 ```
 
-In this case  Polymer gulp tasks will be used to combine all components into a single file. Also all code will be minifyed. At first it will clean destenation directory, than temporary copy bower components  to `src` directory to allow the Polymer to resolve necessary dependencies, build elements and use the Polymer `project.merge(source, dependencies)` task function to combine code.
+In this case  Polymer gulp tasks will be used to combine all components into a single file. Also all code will be minifyed. At first it will clean destenation directory, than temporary copy bower components  to `src` directory to allow the Polymer to resolve necessary dependencies, build elements and use Polymer `project.merge(source, dependencies)` task function to combine code.
 

@@ -84,7 +84,7 @@ or
 <!-- inject scripts './path_to_logic.js'-->
 ```
 
-You can specify the special html comment for imports. Polytempl will look for these components in your src files at first and than in `bower_components/` . See more details about Polytempl [here](https://www.npmjs.com/package/polytempl).
+You can specify the special html comment for imports. Polytempl will look for these components in your src files at first and then in `bower_components/` . See more details about Polytempl [here](https://www.npmjs.com/package/polytempl).
 
 ```text
 <!--import [polymer]-->
