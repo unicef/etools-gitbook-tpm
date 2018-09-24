@@ -9,7 +9,7 @@ description: etools.applications.permissions2
 The core of the module is the Permissions model.   
   
 It consists of:  
-- target \({app}.{module}.{field}\)  
+- target \({app}.{model}.{field}\)  
 - permission \(read/write/action\)  
 - permission type \(allow/deny\)  
 - array of required predicates for this permission.  

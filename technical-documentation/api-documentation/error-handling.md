@@ -2,7 +2,7 @@
 
 Original Django Rest Framework has been modified a bit for consistency and extended in order to include error codes.
 
-Expected http status codes are **404** and **400**. **400** rresponse details are presented below: 
+Expected http status codes are **404** and **400**. **400** response details are presented below: 
 
 #### General / Non Field Errors
 
