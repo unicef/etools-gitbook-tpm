@@ -1,0 +1,4 @@
+# Model Mixins \(TODO\)
+
+ModelHavingTenantRelationsMixin
+

@@ -8,3 +8,5 @@ Once the code has been merged to the develop/master, it is automatically deploye
 
 CI is done in CircleCI where images are built and tests are run. CircleCI then pushes the various images to the Docker Hub, which is then automatically picked up by the appropriate "stack" in the Docker Cloud.
 
+Periodically during deployment update of core data & permissions is required. For more information please check [related section](fixtures-and-management-commands-todo.md).
+
