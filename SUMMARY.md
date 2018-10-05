@@ -56,7 +56,7 @@
 * [Synchronization with VISION](technical-documentation/synchronization-with-vision.md)
 * [Permissions framework](technical-documentation/permissions-framework.md)
 * [FSM Transitions conditions](technical-documentation/fsm-transitions-conditions.md)
-* [FSM Transitions in view \(TODO\)](technical-documentation/fsm-transitions-in-view-todo.md)
+* [FSM Transitions in view \(Review\)](technical-documentation/fsm-transitions-in-view-todo.md)
 * [API Metadata](technical-documentation/api-metadata.md)
 * [Serializer Mixins \(TODO\)](technical-documentation/serializer-mixins-todo.md)
 * [Model Mixins \(TODO\)](technical-documentation/model-mixins-todo.md)
