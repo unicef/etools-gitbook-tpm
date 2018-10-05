@@ -59,7 +59,7 @@
 * [FSM Transitions in view \(Review\)](technical-documentation/fsm-transitions-in-view-todo.md)
 * [API Metadata](technical-documentation/api-metadata.md)
 * [Serializer Mixins \(TODO\)](technical-documentation/serializer-mixins-todo.md)
-* [Model Mixins \(TODO\)](technical-documentation/model-mixins-todo.md)
+* [Model Mixins \(Review\)](technical-documentation/model-mixins-todo.md)
 * [Tests \(TODO\)](technical-documentation/tests-todo.md)
 * [Attachments \(TODO\)](technical-documentation/attachments-todo.md)
 * [Frontend](technical-documentation/frontend/README.md)
