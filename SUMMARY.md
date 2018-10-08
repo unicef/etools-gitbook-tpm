@@ -61,7 +61,7 @@
 * [Serializer Mixins \(Review\)](technical-documentation/serializer-mixins-todo.md)
 * [Model Mixins \(Review\)](technical-documentation/model-mixins-todo.md)
 * [Tests \(Review\)](technical-documentation/tests-todo.md)
-* [Attachments \(TODO\)](technical-documentation/attachments-todo.md)
+* [Attachments \(Review\)](technical-documentation/attachments-todo.md)
 * [Frontend](technical-documentation/frontend/README.md)
   * [Module structure](technical-documentation/frontend/module-structure.md)
   * [Build process](technical-documentation/frontend/build-process.md)
