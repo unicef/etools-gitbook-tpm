@@ -30,7 +30,7 @@ There are no available options for PME.
 {% endtab %}
 
 {% tab title="TPM Focal Point" %}
-Here is the overall UI for visit in "Sent Back to TPM" status for TPM Focal Point:
+Here is the overall UI for Visit in "Sent Back to TPM" status for TPM Focal Point:
 
 ![Visit in &quot;Sent Back to TPM&quot; status](../../../.gitbook/assets/5%20%282%29.png)
 
@@ -54,7 +54,7 @@ Clicking the arrow on the button opens the additional option "Submit Report":
 
 ![Submit Report](../../../.gitbook/assets/8%20%281%29.png)
 
-**Visit Letter option:** See more information about this option in the [Visit Letter](../visit-details-scree-overall-interface/visit-letter.md) article.
+**Visit Letter option:** See more information about this option in  [Visit Details](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/~/edit/drafts/-LOHe8TNV4ZlgxytZ1vr/product-end-user-documentation/list-of-visits-section/visit-details-scree-overall-interface).
 
 ### Editing 
 
@@ -64,7 +64,7 @@ The data can be saved by clicking "Save" button.
 
 ### Submitting
 
-Clicking "Submit report"  takes user to the the screen for visit in "[TPM Reported"](tpm-reported.md) status.
+Clicking "Submit report"  takes user to the the screen for Visit in "[TPM Reported"](tpm-reported.md) status.
 
   
 

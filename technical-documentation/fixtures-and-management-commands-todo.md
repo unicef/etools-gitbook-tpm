@@ -1,4 +1,4 @@
-# Fixtures & management commands \(TODO\)
+# Fixtures & management commands
 
 To manage some data we use fixtures & custom commands. Mostly custom commands are used for managing email templates and for updating permissions, because their definitions are complex and hard to control using fixtures.
 

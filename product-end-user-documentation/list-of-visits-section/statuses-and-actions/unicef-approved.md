@@ -6,7 +6,7 @@ Click on each tab below to open the detailed information about available options
 
 {% tabs %}
 {% tab title="PME" %}
-Here is the overall UI for visit in "UNICEF Approved" status for PME:
+Here is the overall UI for Visit in "UNICEF Approved" status for PME:
 
 ![Visit for &quot;UNICEF Approved&quot; status](../../../.gitbook/assets/11.png)
 
@@ -33,7 +33,7 @@ Here is the overall UI for visit in "UNICEF Approved" status for TPM Focal Point
 
 There is only "**Visit Letter"** option accessible for TPM Focal Point.
 
-See the details of this option in the [Visit letter](../visit-details-scree-overall-interface/visit-letter.md) article. 
+See the details of this option in the[ Visit Details](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/~/edit/drafts/-LOHe8TNV4ZlgxytZ1vr/product-end-user-documentation/list-of-visits-section/visit-details-scree-overall-interface). 
 {% endtab %}
 {% endtabs %}
 

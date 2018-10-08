@@ -1,12 +1,12 @@
 # Assigned
 
-The "Assigned" status appears after PME assigns the visit in "Draft" status or re-assigns the visit in ["TPM Rejected"](tpm-rejected.md) status.
+The "Assigned" status appears after PME assigns the Visit in "Draft" status or re-assigns the Visit in ["TPM Rejected"](tpm-rejected.md) status.
 
 Click on each tab below to open the detailed information about available options for the Visit in "Assigned" status in accordance with the user role: 
 
 {% tabs %}
 {% tab title="PME" %}
-Here is the overall UI for visit in "Assigned" status for PME:
+Here is the overall UI for Visit in "Assigned" status for PME:
 
 ![Visit in &quot;Assigned&quot; status ](../../../.gitbook/assets/72.png)
 
@@ -22,11 +22,11 @@ Clicking "Cancel Visit" button takes user to the following modal window where th
 
 ![Cancellation modal window](../../../.gitbook/assets/cancel.png)
 
-The screen for visit in ["Cancelled"](cancelled.md) status is opened after clicking "Continue" button in the modal window.
+The screen for Visit in ["Cancelled"](cancelled.md) status is opened after clicking "Continue" button in the modal window.
 {% endtab %}
 
 {% tab title="TPM Focal Point" %}
-Here is the overall UI for visit in "Assigned" status for TPM Focal Point:
+Here is the overall UI for Visit in "Assigned" status for TPM Focal Point:
 
 ![Visit in &quot;Assigned&quot; status](../../../.gitbook/assets/71.png)
 

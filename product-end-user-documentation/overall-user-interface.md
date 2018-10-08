@@ -23,7 +23,7 @@ At the top:
 
 * label with the module name,
 * Third Party Monitors section,
-* List of visits section.
+* List of Visits section.
 
 ![Top of the left navigation panel for UNICEF Staff Members](../.gitbook/assets/7%20%281%29.png)
 

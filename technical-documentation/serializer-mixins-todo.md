@@ -1,4 +1,4 @@
-# Serializer Mixins \(Review\)
+# Serializer Mixins
 
 ### Nested serializers
 
@@ -26,7 +26,7 @@ This mixin scan nested serializers during `create` or `update` call and then sep
 
 #### WritableNestedChildSerializerMixin
 
-Another part of writable serializers, with logic connected to child instances.  Firstly, we set pk field as writable and not required. This allows us to also define instances without pk, which should be created.
+Another part of writable serializers, with logic connected to child instances. Firstly, we set pk field as writable and not required. This allows us to also define instances without pk, which should be created.
 
 ```javascript
 {

@@ -14,8 +14,8 @@ There are 3 main parts in TPM documentation:
 * **Product \(end-user documentation\)** Here you can find the description of:
   * [General Overview](product-end-user-documentation/overview/) and [user rights](product-end-user-documentation/overview/user-rights-and-permissions.md)
   * [Access to TPM](product-end-user-documentation/how-to-get-to-the-tpm.md)
-  * [Third Party Monitors section](product-end-user-documentation/third-party-monitors-section/) with information of[ adding new Vendor](product-end-user-documentation/third-party-monitors-section/how-to-add-new-vendor.md)
-  * [List of Visits section](product-end-user-documentation/list-of-visits-section/) with information about [adding new visit](product-end-user-documentation/list-of-visits-section/how-to-add-new-visit.md), [possible statuses and actions](product-end-user-documentation/list-of-visits-section/statuses-and-actions/) for visit 
+  * [Third Party Monitors section](product-end-user-documentation/third-party-monitors-section/) with information of[ adding new Vendor]()
+  * [List of Visits section](product-end-user-documentation/list-of-visits-section/) with information about [adding new visit](), [possible statuses and actions](product-end-user-documentation/list-of-visits-section/statuses-and-actions/) for visit 
   * [TPM workflow](product-end-user-documentation/tpm-workflow.md) 
 * **Technical documentation** describing the technical background and properties of the TPM module.
 

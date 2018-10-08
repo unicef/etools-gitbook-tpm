@@ -1,6 +1,6 @@
 # Emails notifications flow
 
-The table below describes the cases when the email notification is sent depending on user roles and actions performed with visit.  
+The table below describes the cases when the email notification is sent depending on user roles and actions performed with Visit.  
 
 <table>
   <thead>

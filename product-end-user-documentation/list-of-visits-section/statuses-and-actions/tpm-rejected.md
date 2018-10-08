@@ -24,7 +24,7 @@ Clicking the arrow on the button opens the additional options **"Re-Assign"** an
 
 ### Editing and Saving changes
 
-The visit in "TPM Rejected" status can be edited by PME. See more details of user rights in the [User rights and permissions](../../overview/user-rights-and-permissions.md) article.
+The visit in "TPM Rejected" status can be edited by PME. See more details of user rights in the [user rights](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/~/edit/drafts/-LOHe8TNV4ZlgxytZ1vr/product-end-user-documentation/overview/user-rights-and-permissions)  article.
 
 The user can save changes by clicking "Save" button. 
 

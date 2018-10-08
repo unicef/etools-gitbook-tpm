@@ -10,7 +10,7 @@
 
 ## 2\) via the direct link link 
 
-The user can access the TPM via the link in the email to a **particular visit** which is accessed to him or via a link for **signing in** TPM.
+The user can access the TPM via the link in the email to a **particular Visit** which is accessed to him or via a link for **signing in** TPM.
 
 ## 3\) **via the Action Point Dashboard** \(through the link to AP created in TPM\)
 

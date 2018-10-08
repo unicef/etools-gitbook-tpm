@@ -1,4 +1,4 @@
-# Model Mixins \(Review\)
+# Model Mixins
 
 ### ModelHavingTenantRelationsMixin
 

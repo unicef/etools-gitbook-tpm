@@ -1,6 +1,6 @@
 # Draft
 
-The "Draft" status appears after the PME adds new visit via the "Add New Visit" button. See more information about adding new visit in the ["Add New Visit"](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/~/edit/drafts/-LMnIRoN-L_7Q21-_n-4/product-end-user-documentation/list-of-visits-section/how-to-add-new-visit) article.
+The "Draft" status appears after the PME adds new Visit via the "Add New Visit" button. See more information about adding new Visit [here](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/~/edit/drafts/-LOHe8TNV4ZlgxytZ1vr/product-end-user-documentation/list-of-visits-section/list-of-visits).
 
 Click on each tab below to open the detailed information about available options for the Visit in "Draft" status in accordance with the user role: 
 
@@ -16,19 +16,19 @@ There is a split button **"Save"** at the bottom of the status panel.
 
 ![Save button](../../../.gitbook/assets/68%20%281%29.png)
 
-Clicking the arrow on the button opens the additional options **"Assign"** and **"Cancel visit"**:
+Clicking the arrow on the button opens the additional options **"Assign"** and **"Cancel Visit"**:
 
-![Additional options for visit in &quot;Draft&quot; status](../../../.gitbook/assets/69.png)
+![Additional options for Visit in &quot;Draft&quot; status](../../../.gitbook/assets/69.png)
 
 ### Editing and Saving changes
 
-The visit in the "Draft" status can be edited by **PME**. See more details on user rights in the [User rights and permissions](../../overview/user-rights-and-permissions.md) article.
+Visit in the "Draft" status can be edited by **PME**. See more details on user rights in the [user rights](../../overview/user-rights-and-permissions.md) article.
 
 The user can Save changes by clicking the "Save" button. 
 
 ### Assigning
 
-Clicking "Assign" button moves user to the screen for visit in the ["Assigned"](assigned.md) status.
+Clicking "Assign" button moves user to the screen for Visit in the ["Assigned"](assigned.md) status.
 
 ### Email notifications
 
@@ -50,7 +50,7 @@ Clicking "Cancel Visit" option takes user to the following modal window where th
 
 ![Cancellation modal window](../../../.gitbook/assets/cancel%20%282%29.png)
 
-The screen for visit in ["Cancelled"](cancelled.md) status is opened after clicking "Continue" button in the modal window.
+The screen for Visit in ["Cancelled"](cancelled.md) status is opened after clicking "Continue" button in the modal window.
 {% endtab %}
 
 {% tab title="TPM Focal Point" %}

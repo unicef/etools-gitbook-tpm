@@ -2,7 +2,7 @@
 
 The "TPM Reported" status displayed after the TPM Focal Point submits the report for the Visit in ["TPM Accepted"](tpm-accepted.md) status.
 
-Click on each tab below to open the detailed information about available options for visit in "TPM Reported" status in accordance with the user role: 
+Click on each tab below to open the detailed information about available options for Visit in "TPM Reported" status in accordance with the user role: 
 
 {% tabs %}
 {% tab title="PME" %}
@@ -11,7 +11,7 @@ Here is the overall UI for visit in "TPM Reported" status for PME:
 ![Visit in &quot;TPM Reported&quot; status](../../../.gitbook/assets/93.png)
 
 {% hint style="info" %}
-**"Report"** and "**Action Points"** tabs appear on this screen for PME. See more details on these tabs in the ["Visit details"](../visit-details-scree-overall-interface/) article. 
+**"Report"** and "**Action Points"** tabs appear on this screen for PME. See more details on these tabs in the ["Visit details"](../visit-details-scree-overall-interface.md) article. 
 {% endhint %}
 
 ### Available options
@@ -66,7 +66,7 @@ The following **email notification** is sent to TMP Focal point after the PME re
 {% endtab %}
 
 {% tab title="TPM Focal Point" %}
-Here is the overall UI for visit in "TPM Reported" status for TPM Focal Point:
+Here is the overall UI for Visit in "TPM Reported" status for TPM Focal Point:
 
 ![ Visit in &quot;TPM Reported&quot; status](../../../.gitbook/assets/105.png)
 
@@ -74,7 +74,7 @@ Here is the overall UI for visit in "TPM Reported" status for TPM Focal Point:
 
 There is only "**Visit Letter"** option accessible for TPM Focal Point.
 
-See more information about this option in the [Visit Letter](../visit-details-scree-overall-interface/visit-letter.md) article. 
+See more information about this option in the [Visit Details](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/~/edit/drafts/-LOHe8TNV4ZlgxytZ1vr/product-end-user-documentation/list-of-visits-section/visit-details-scree-overall-interface). 
 
   
 {% endtab %}

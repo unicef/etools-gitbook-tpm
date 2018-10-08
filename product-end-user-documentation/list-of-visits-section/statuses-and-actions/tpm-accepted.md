@@ -1,12 +1,12 @@
 # TPM Accepted
 
-The "TPM Accepted" status displayed after the TPM Focal Point accepts the visit that is [assigned](assigned.md) to him.  
+The "TPM Accepted" status displayed after the TPM Focal Point accepts the Visit that is [assigned](assigned.md) to him.  
 
 Click on each tab below to open the detailed information about available options for the Visit in "TPM Accepted" status in accordance with the user role: 
 
 {% tabs %}
 {% tab title="PME" %}
-Here is the overall UI for visit in "TPM Accepted" status for PME:
+Here is the overall UI for Visit in "TPM Accepted" status for PME:
 
 ![Visit in &quot;TPM Accepted&quot; status](../../../.gitbook/assets/83.png)
 
@@ -28,7 +28,7 @@ The screen for the Visit in ["Cancelled" ](cancelled.md)status is opened after c
 {% endtab %}
 
 {% tab title="TPM Focal Point" %}
-Here is the overall UI for visit in "TPM Accepted" status for TPM Focal Point:
+Here is the overall UI for Visit in "TPM Accepted" status for TPM Focal Point:
 
 ![Visit in &quot;TPM Accepted&quot; status](../../../.gitbook/assets/82.png)
 
@@ -48,7 +48,7 @@ Clicking the arrow on the button opens the additional option **"Submit Report":*
 
 ![&quot;Submit Report&quot; button](../../../.gitbook/assets/86.png)
 
-**Visit Letter option:** See more information about this option in the "[Visit Letter](../visit-details-scree-overall-interface/visit-letter.md)" article. 
+**Visit Letter option:** See more information about this option in the "[Visit Letter]()" article. 
 
 ### Editing 
 
