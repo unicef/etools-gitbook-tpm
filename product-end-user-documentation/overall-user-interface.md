@@ -1,6 +1,6 @@
 # Overall User Interface
 
-The overall user interface for Third Party Monitoring Module is presented in the following screenshot:
+The overall UI for Third Party Monitoring Module is presented in the following screenshot:
 
 ![Overall user interface](../.gitbook/assets/13%20%282%29.png)
 
@@ -10,7 +10,7 @@ The following sections are represented for overall UI:
 
 * reload icon,
 * profile dropdown,
-* country dropdown,
+* country workspace,
 * app icon to switch to another application or repository.
 
 ![Header](../.gitbook/assets/6.png)

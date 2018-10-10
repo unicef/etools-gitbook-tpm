@@ -1,6 +1,6 @@
 # Third Party Monitors section
 
-The overall user interface for Third Party Monitors section is different for **UNICEF users** and **TPM users**. Click on each tab below for more details.
+The overall UI for Third Party Monitors section is different for **UNICEF users** and **TPM users**. Click on each tab below for more details.
 
 ## UNICEF User UI
 

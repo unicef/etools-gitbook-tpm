@@ -1,10 +1,10 @@
 # Visit details
 
-Here is the overall user interface for the Visit details screen:
+Here is the overall UI for the Visit details screen:
 
-![Visit details screen: overall user interface for PME](../../.gitbook/assets/46%20%282%29.png)
+![Visit details screen: overall UI for PME](../../.gitbook/assets/46%20%282%29.png)
 
-![Visit details screen: overall user interface for TPM Focal Point](../../.gitbook/assets/102.png)
+![Visit details screen: overall UI for TPM Focal Point](../../.gitbook/assets/102.png)
 
 ## Visit Details Tabs
 

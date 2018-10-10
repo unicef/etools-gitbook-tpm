@@ -2,7 +2,7 @@
 
 Here is the overall user interface for filterable List of Visits:
 
-![List of Visits: overall user interface](../../.gitbook/assets/58.png)
+![List of Visits: overall UI](../../.gitbook/assets/58.png)
 
  Each row can be **sorted by columns** in either ascending or descending order.
 

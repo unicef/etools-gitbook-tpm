@@ -1,6 +1,6 @@
 # List of Third Party Monitors
 
-Here is the overall user interface for the list of TPM Organizations:
+Here is the overall UI for the list of TPM Organizations:
 
 ![List of Third Party Monitors](../../.gitbook/assets/36.png)
 
