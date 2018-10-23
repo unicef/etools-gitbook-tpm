@@ -1,4 +1,4 @@
-# Attachments \(Review\)
+# Attachments
 
 We use attachments to store related documents for visit, activities, their reports and partner documents. This is a simple model which require file or hyperlink to be provided and has a simple generic foreign key, so it can be used everywhere.
 

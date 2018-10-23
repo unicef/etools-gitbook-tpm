@@ -1,6 +1,6 @@
 # Report an Issue / Contact us
 
-#### Reporting Issues {#reporting-issues}
+#### Reporting Issues <a id="reporting-issues"></a>
 
 You can file tickets here: [https://github.com/unicef/etools-tpm](https://github.com/unicef/etools-tpm) 
 

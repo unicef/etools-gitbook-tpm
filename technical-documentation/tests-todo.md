@@ -1,4 +1,4 @@
-# Tests \(Review\)
+# Tests
 
 ### TransitionPermissionsTestCaseMixin
 

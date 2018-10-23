@@ -1,6 +1,6 @@
 # Development Setup
 
-## Local Setup {#local-setup}
+## Local Setup <a id="local-setup"></a>
 
 1. Install [Docker CE](https://docs.docker.com/engine/installation/) for your OS. Also install Fabric via `pip install fabric`
 2. Create .env file with the reference of`.env.example`or receive .env file from your team member.
@@ -16,7 +16,7 @@
 9. **Important!** User created with superuser command will not be assosiated with any country, so frontend will fail. You need to assign the country manually in the admin panel from user edit page.
 10.  And can now go to ​http://127.0.0.1:8082/tpm/ to see the frontend interface.
 
-## Helpful Commands {#helpful-commands}
+## Helpful Commands <a id="helpful-commands"></a>
 
 Here are some docker tips:
 

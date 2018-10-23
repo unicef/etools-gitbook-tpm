@@ -1,6 +1,6 @@
 # Third Party Monitoring Module Documentation
 
-## Documentation Overview {#documentation-overview}
+## Documentation Overview <a id="documentation-overview"></a>
 
 The aim of this documentation is to describe the Third Party Monitoring \(TPM\) module of eTools.
 
@@ -19,11 +19,11 @@ There are 3 main parts in TPM documentation:
   * [TPM workflow](product-end-user-documentation/tpm-workflow.md) 
 * **Technical documentation** describing the technical background and properties of the TPM module.
 
-## Design Philosophy of TPM {#design-philosophy-of-fam}
+## Design Philosophy of TPM <a id="design-philosophy-of-fam"></a>
 
 The UX / visual design philosophy builds on [Google Material Design](https://material.io/guidelines/), with variations.
 
-## Technical design of TPM {#technical-design-of-fam}
+## Technical design of TPM <a id="technical-design-of-fam"></a>
 
 The technical design philosophy for TPM builds on what has already been established by the eTools team at UNICEF. More information here: [https://github.com/unicef/etools](https://github.com/unicef/etools).
 

@@ -1,6 +1,6 @@
 # Architecture
 
-## Services {#services}
+## Services <a id="services"></a>
 
 The platform is structured in a way that all the functionality is exposed via REST API's. The data from these API's drives the web interface which is a Single Page Application \(SPA\). There is a proxy that sits in front of the frontend SPA and backend API's. Additionally there is a message broker and asynchronous task / job queue that is used to run long-running and regular \(say every 1 hour or 1 day\) tasks.
 

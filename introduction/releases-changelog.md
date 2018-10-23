@@ -1,6 +1,6 @@
 # Releases / Changelog\*
 
-## September 2018 {#1-0-1-2018}
+## September 2018 <a id="1-0-1-2018"></a>
 
 During the workshop the APD module was discussed, approved and passed on to the UNICEF team 
 
